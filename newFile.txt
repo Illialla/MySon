@@ -1,2 +1,6 @@
 Abracadabra
+<<<<<<< HEAD
 Изменение на github
+=======
+изменение в cmd
+>>>>>>> 6ed030d (update in cmd)
